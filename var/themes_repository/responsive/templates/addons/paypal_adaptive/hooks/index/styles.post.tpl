@@ -1,0 +1,1 @@
+{style src="addons/paypal_adaptive/styles.css"}
